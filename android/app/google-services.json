@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "127168271990",
+    "project_id": "ecorutas-f203f",
+    "storage_bucket": "ecorutas-f203f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127168271990:android:9a37657430f91fb893f157",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6dd1trpXXZ3Iuz-q-hqtyUxuhYi35Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127168271990:android:6681bc7b37978c9f93f157",
+        "android_client_info": {
+          "package_name": "com.example.ecorutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6dd1trpXXZ3Iuz-q-hqtyUxuhYi35Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127168271990:android:30afb7de3c57cc6093f157",
+        "android_client_info": {
+          "package_name": "com.tuempresa.ecorutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6dd1trpXXZ3Iuz-q-hqtyUxuhYi35Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
